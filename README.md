@@ -2,7 +2,7 @@
 
 **`DevOps Engineer | Cloud | CI/CD | GitOps | Kubernetes`**
 
-Me chamo João Vitor, sou DevOps Engineer na MV e estudante do curso de Sistemas para Internet no IFPE (Campus Paulista). Atuo focado na construção de esteiras de CI/CD, automação de infraestrutura, conteinerização e monitoramento de sistemas. Meu objetivo é impulsionar a cultura DevOps, garantindo a entrega ágil de soluções e a sustentação de ambientes cloud eficientes, seguros e altamente escaláveis.
+Me chamo João Vitor, sou DevOps Engineer na MV e formado em Redes de Computadores. Atuo focado na construção de esteiras de CI/CD, automação de infraestrutura, conteinerização e monitoramento de sistemas. Meu objetivo é impulsionar a cultura DevOps, garantindo a entrega ágil de soluções e a sustentação de ambientes cloud eficientes, seguros e altamente escaláveis.
 ___________________________________________________________________________________________________________________________________________
 
  📫 Contato  
@@ -44,6 +44,19 @@ ________________________________________________________________________________
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+__________________________________________________________________________________________________________________________________________
+
+### 🏆 Licenças e Certificações
+
+*   **FinOps Certified Practitioner** - The Linux Foundation
+*   **Manage Kubernetes in Google Cloud Skill Badge** - Google Cloud
+*   **Bootcamp DevOps Com IA** - Faculdade Full Cycle de Tecnologia
+*   **Imersão DevOps** - Alura / Google
+*   **Getting Started with DevOps on AWS** - Amazon Web Services (AWS)
+*   **CCNA (Cisco Certified Network Associate)** - Cisco
+*   **Cybersecurity Essentials** - Cisco
+*   **Curso Online de PHP** - Rocketseat
 
 __________________________________________________________________________________________________________________________________________
 
