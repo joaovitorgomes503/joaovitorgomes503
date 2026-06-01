@@ -1,6 +1,6 @@
 # João Vitor Gomes 
 
-**`DevOps Engineer | Cloud | CI/CD | Kubernetes`**
+**`DevOps Engineer | Cloud | CI/CD | GitOps | Kubernetes`**
 
 Me chamo João Vitor, sou DevOps Engineer na MV e estudante do curso de Sistemas para Internet no IFPE (Campus Paulista). Atuo focado na construção de esteiras de CI/CD, automação de infraestrutura, conteinerização e monitoramento de sistemas. Meu objetivo é impulsionar a cultura DevOps, garantindo a entrega ágil de soluções e a sustentação de ambientes cloud eficientes, seguros e altamente escaláveis.
 ___________________________________________________________________________________________________________________________________________
@@ -30,8 +30,10 @@ ________________________________________________________________________________
 
 ---
 
-### ⚙️ CI/CD e Infraestrutura como Código (IaC)
+### ⚙️ CI/CD, GitOps e Infraestrutura como Código (IaC)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,12 +47,12 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________
 
-### 🚀 Atualmente desenvolvendo e estudando
+### 🚀 Foco e Atuação Profissional
 
-☁️ Certificações Cloud (Google Cloud e Oracle Cloud Infrastructure) e FinOps
-⚙️ Aprofundamento em pipelines CI/CD e integração com Inteligência Artificial
-🔐 Projeto KeySentinel (Dashboard de segurança e monitoramento de infraestrutura)
-📊 Observabilidade avançada e análise de performance com ferramentas open-source
+☁️ Sustentação e arquitetura em ambientes Multicloud (Google Cloud, AWS e Oracle Cloud Infrastructure) aliados a práticas de FinOps.
+⚙️ Construção, automação e manutenção de pipelines de CI/CD robustos, integrando fluxos de deploy contínuo com GitOps.
+🤖 Aplicação e integração de Inteligência Artificial para otimização de ecossistemas DevOps e troubleshooting.
+📊 Implementação de observabilidade avançada, análise de performance e monitoramento de infraestrutura com stacks open-source.
 
 ⚡ Curiosidade
 Gosto de projetar e implementar soluções focadas em resolver problemas reais de infraestrutura e operações, desde a automação completa de pipelines de entrega contínua até a criação de ecossistemas robustos de observabilidade, visando sempre a alta disponibilidade, segurança e otimização de custos na nuvem.
